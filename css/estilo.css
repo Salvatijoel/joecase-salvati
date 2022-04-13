@@ -9,6 +9,16 @@
     text-decoration: none;
 }
 
+/* ANIMACIONES */ 
+
+.animate__animated.animate__fadein {
+    --animate-duration: 10s;
+  }
+.animate__animated.animate__slideInRight 
+{
+    --animate-duration: 1.5s;
+}
+
 
 body {
     background-color: #141518;
